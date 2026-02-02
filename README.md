@@ -1,0 +1,2 @@
+# Plasma-Treatment-of-Microplastics-in-Drinking-Water-FYP-B-Tech-
+This repository documents a two-semester project at NIT Silchar on high-voltage non-thermal plasma (8-15 kV) for degrading microplastics in drinking water. It includes experimental data from sinusoidal and square-wave excitation, UV-Vis and FTIR spectroscopy results, and ongoing 8th-semester research on SEM and inert gas optimization.
