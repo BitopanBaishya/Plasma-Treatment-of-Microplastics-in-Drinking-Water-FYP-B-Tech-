@@ -25,6 +25,39 @@ This repository is intended to function not merely as a project submission artif
 
 ---
 
+## 📚 Contents
+
+1. [Introduction](#high-voltage-plasma-assisted-water-purification-for-removal-of-microplastics-and-impurities-from-drinking-water)
+2. [Read Before You Start](#-read-before-you-start)
+3. [Repository Structure](#-repository-structure)
+4. [Project Documentation](#project-documentation)
+   - [Project Overview](docs/project_overview.md)
+   - [Literature Review](docs/literature_review.md)
+   - [System Architecture](docs/system_architecture.md)
+   - [Experimental Methodology](docs/experimental_methodology.md)
+   - [Safety Protocols](docs/safety_protocols.md)
+   - [Results and Analysis](docs/results_and_analysis.md)
+   - [Limitations and Future Work](docs/limitations_and_future_work.md)
+5. [Hardware Documentation](#hardware-documentation)
+   - [High-Voltage Circuit Design](hardware/hv_circuit_design.md)
+   - [Electrode Design](hardware/electrode_design.md)
+   - [Plasma Reactor Configuration](hardware/plasma_reactor.md)
+6. [Experimental Records](#experimental-records)
+   - [Master Experiment Logbook](experiments/experiment_logbook.md)
+   - [Baseline Characterization](experiments/exp_01_baseline_characterization.md)
+   - [Plasma Generation Validation](experiments/exp_02_plasma_generation_validation.md)
+   - [Microplastic Treatment — Sine Wave](experiments/exp_03_microplastic_treatment_sine_wave.md)
+   - [Microplastic Treatment — Square Wave](experiments/exp_04_microplastic_treatment_square_wave.md)
+7. [Data and Results](#data-and-results)
+   - [Raw Data](data/raw/)
+   - [Processed Data](data/processed/)
+   - [Plots and Visualizations](data/plots/)
+8. [Acknowledgments](#-acknowledgments)
+9. [License](#-license)
+10. [Contact and Support](#-contact-and-support)
+
+---
+
 ## 📌 Read Before You Start
 
 This repository documents the ongoing work of a **high-voltage plasma–assisted water purification project** as it evolves through design iterations, hardware experiments, and laboratory observations. It is not intended to be a step-by-step tutorial, but rather a **transparent and faithful record of experimental engineering in practice**.
